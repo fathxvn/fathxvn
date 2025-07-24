@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fathxvn/fathxvn/main/assets/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Fathan</h1>
 <p align="center">A passionate beginner Web Developer who’s always excited to learn and grow!</p>
+
 
 ---
 

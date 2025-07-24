@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fathan</h1>
-<p align="center">A passionate beginner Web Developer who’s always excited to learn and grow!</p>
-
+<p align="center">beginner Web Developer who’s always excited to learn and grow!</p>
 
 ---
 
@@ -8,14 +7,13 @@
 
 - 🌱 Currently learning: **PHP**, **CodeIgniter 4**, **Laravel**
 - 🎨 Practicing frontend with: **Tailwind CSS**, **Bootstrap**, **HTML**, **CSS**
-- 🔍 Exploring: **JavaScript**, **MySQL**, and basic backend logic
-- 📫 How to reach me: **m.patonmubin@gmail.com**
+- 🧠 Exploring: **JavaScript**, **MySQL**, and basic backend logic
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeIgniter-FC2803?style=for-the-badge&logo=codeigniter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -32,14 +30,14 @@
 
 ## 🚧 Projects
 
-- 📚 [CI4_Perpustakaan](https://github.com/fathxvn/CI4_Perpustakaan) — Sistem manajemen perpustakaan menggunakan CodeIgniter 4
-- 🛠️ More projects coming soon...
+- 📚 [`CI4_Perpustakaan`](https://github.com/fathxvn/CI4_Perpustakaan) – Sistem manajemen perpustakaan berbasis CodeIgniter 4
+- 🏨 [`Hotel App (CI3)`](https://github.com/fathxvn/hotel) – Sistem reservasi hotel berbasis CodeIgniter 3
 
 ---
 
 ## 🧠 Learning Journey
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Learning-CodeIgniter4-FC2803?style=flat-square" />
   <img src="https://img.shields.io/badge/Exploring-Laravel-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Practicing-TailwindCSS-06B6D4?style=flat-square" />
@@ -50,7 +48,7 @@
 
 ## 📫 Connect with Me
 
-<p>
+<p align="center">
   <a href="mailto:m.patonmubin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-m.patonmubin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

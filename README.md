@@ -1,3 +1,4 @@
+<!-- Animated Banner (bisa ganti dengan banner buatan sendiri nanti) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Fathan;Beginner+Web+Developer;CodeIgniter+%7C+Laravel+%7C+Tailwind+Lover;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
@@ -6,10 +7,10 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-- 🧠 Currently diving deep into **PHP, CodeIgniter 4 & Laravel**
-- 🎨 Learning frontend tools: **Tailwind CSS**, **Bootstrap**, and **JavaScript**
-- 📚 Kadang-kadang ngulik backend dan **database MySQL**
-- 🛠️ Suka eksplorasi proyek pribadi biar makin paham sistem
+- 🧠 Saat ini belajar mendalam **PHP, CodeIgniter 4 & Laravel**
+- 🎨 Eksplorasi frontend tools: **Tailwind CSS**, **Bootstrap**, dan **JavaScript**
+- 💾 Sedikit-sedikit mulai pahami **MySQL & database**
+- 🛠️ Bikin proyek pribadi biar makin tajam logikanya
 
 ---
 
@@ -51,8 +52,8 @@
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://instagram.com/fthan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@fthan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/_fthan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@_fthan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:m.patonmubin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-m.patonmubin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -62,5 +63,5 @@
 ---
 
 <p align="center">
-  🚀 *"Focus on career not girls because gf is temporary success is permanent"* — <strong>Fathan</strong>
+  🚀 *"Belajar pelan-pelan tapi konsisten. Gagal itu biasa, yang penting tetap coba."* — <strong>Fathan</strong>
 </p>

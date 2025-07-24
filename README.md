@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://whvn.cc/6lkrow" alt="Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Muhammad Fathan</h1>
 <p align="center">A passionate beginner Web Developer who’s always excited to learn and grow!</p>
 

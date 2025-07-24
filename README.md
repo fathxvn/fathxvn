@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fathxvn/fathxvn/main/assets/banner.png" alt="Banner" />
+  <img src="https://whvn.cc/6lkrow" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Fathan</h1>

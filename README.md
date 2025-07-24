@@ -19,8 +19,8 @@
 - (Akan bertambah seiring perjalanan belajar...)
 
 📫 **Reach Me At:**
-- Email: gantengpanjul997@gmail.com
-- Instagram: [@fthan](https://instagram.com/fthan)
+- Email: fathxvn@gmail.com *(atau sesuaikan sendiri)*
+- Instagram: [@fathxvn](https://instagram.com/fathxvn)
 
 ---
 
@@ -31,17 +31,12 @@
   <img src="https://img.shields.io/badge/CodeIgniter-FC2803?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathxvn&show_icons=true&theme=tokyonight" />
 </p>
 
 ---

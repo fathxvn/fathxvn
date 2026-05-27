@@ -59,4 +59,4 @@
 
 ---
 
-<p align="center"><i>“Belajar pelan-pelan, tapi konsisten. Jangan takut gagal, yang penting terus coba.”</i></p>
+

@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/Panorama%20Sakura%20dan%20Air%20Terjun.png" width="100%" alt="Panorama sakura merah muda dengan pegunungan, air terjun, dan danau yang tenang">
+  <img src="./assets/Lembah%20Sakura%20dan%20Air%20Terjun%20Pixel.png" width="100%" alt="Pixel art lembah sakura dengan air terjun">
 </p>
 
 # Muhammad Fathan
@@ -9,9 +9,9 @@
 Building thoughtful interfaces and practical web applications with Laravel and JavaScript.
 
 <p>
-  <a href="mailto:m.patonmubin@gmail.com"><img src="https://img.shields.io/badge/Email-F0B6CC?style=flat-square&amp;logo=gmail&amp;logoColor=24292F" alt="Email Fathan"></a>
-  <a href="https://github.com/fathxvn?tab=repositories"><img src="https://img.shields.io/badge/Projects-F0B6CC?style=flat-square&amp;logo=github&amp;logoColor=24292F" alt="Explore repositories"></a>
-  <a href="https://instagram.com/_fthan"><img src="https://img.shields.io/badge/Instagram-F0B6CC?style=flat-square&amp;logo=instagram&amp;logoColor=24292F" alt="Instagram"></a>
+  <a href="mailto:m.patonmubin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=C9D1D9" alt="Email Fathan"></a>
+  <a href="https://github.com/fathxvn?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=C9D1D9" alt="Explore repositories"></a>
+  <a href="https://instagram.com/_fthan"><img src="https://img.shields.io/badge/INSTAGRAM-161B22?style=for-the-badge&amp;logo=instagram&amp;logoColor=C9D1D9" alt="Instagram"></a>
 </p>
 
 ## About
